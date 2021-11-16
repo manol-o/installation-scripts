@@ -2,6 +2,8 @@ choco install vscode
 
 choco install cmake
 choco install git
+choco install libreoffice
+choco install telegram
 
 
 code --install-extension ms-vscode.cpptools
